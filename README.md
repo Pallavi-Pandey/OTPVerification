@@ -1,4 +1,4 @@
-# OTP Verification
+# Otp Verification System
 
 A simple web application for OTP (One-Time Password) verification.
 
